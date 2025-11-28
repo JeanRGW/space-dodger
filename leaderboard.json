@@ -1,0 +1,31 @@
+{
+  "Easy": [],
+  "Normal": [
+    {
+      "name": "Jean",
+      "score": 74
+    },
+    {
+      "name": "jean test2",
+      "score": 7
+    },
+    {
+      "name": "jean",
+      "score": 5
+    }
+  ],
+  "Hard": [],
+  "Easy-Collector": [],
+  "Normal-Collector": [],
+  "Hard-Collector": [],
+  "Normal-Coletor": [
+    {
+      "name": "Player",
+      "score": 16
+    },
+    {
+      "name": "Player",
+      "score": 10
+    }
+  ]
+}
